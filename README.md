@@ -4,6 +4,11 @@
 ChainSense visualizes wallet interactions, token flows, and smart-contract activity as dynamic graphs.  
 It helps researchers and builders *see* blockchain behavior instead of scanning block explorers.
 
+## 🧠 Roadmap
+- [ ] Live transaction streaming
+- [ ] Wallet clustering by behavior
+- [ ] Smart-contract pattern recognition
+
 ## 🚀 Features
 - Graph-based visualization of on-chain relationships  
 - REST API powered by **FastAPI**  
